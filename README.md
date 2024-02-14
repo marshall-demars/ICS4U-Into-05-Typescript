@@ -1,15 +1,6 @@
-# bun-add-bun-promptx
+[![Mr Coxall's Super Linter](https://github.com/<marshall-demars>/<ICS4U-Intro-05-Typescript>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<marshall-demars>/<ICS4U-Intro-05-Typescript>/actions/)
 
-To install dependencies:
 
-```bash
-bun install
-```
+If the root of the repo is your website then:
 
-To run:
-
-```bash
-bun run bun install @inquirer/prompts
-```
-
-This project was created using `bun init` in bun v1.0.26. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This site can be found at: [https://<marshall-demars>.github.io/<ICS4U-Intro-05-Typescript>](https://<marshall-demars>.github.io/<ICS4U-Intro-05-Typescript>)
